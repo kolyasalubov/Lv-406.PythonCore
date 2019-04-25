@@ -13,3 +13,4 @@ The Zen of Python, by Tim Peters
 11. Now is better than never. Pew pew
 12
 Explicit is better than implicit.
+15.Now is better than never.
