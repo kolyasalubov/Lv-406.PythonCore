@@ -9,6 +9,6 @@ The Zen of Python, by Tim Peters
 7
 8
 9. Although practicality beats purity.
-10
+10. Bohdan Yaremkiv
 11
 12
