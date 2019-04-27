@@ -10,7 +10,7 @@ The Zen of Python, by Tim Peters
 8.Special cases aren't special enough to break the rules.
 9. Although practicality beats purity.
 10.Errors should never pass silently.
-11 Now is better than never. Pew pew
+11 Unless explicitly silenced.
 12 If the implementation is hard to explain, it's a bad idea.
 15.Now is better than never.
 19.If the implementation is hard to explain, it's a bad idea.
